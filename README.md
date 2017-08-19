@@ -1,6 +1,4 @@
 # About-Me
-I'm not new to programming but it has been a while. In high school I learned C++ but that was a while back. I have a degree in psychology and a little over half a doctorate in medicine. No I don't plan to go back to med school. I'm in the process of learning C#, JavaScript, and SQL. I'll add more to that list but for now three languages at once is enough. 
+I am a junior full stack developer. I primarily work with C#, ASP.NET, and MVC on the back end and Angular on the front end. I have some experience with SQL but am not at DBA levels with it. I have a full time position as a back end developer and do freelance work on the side as time permits.
 
-I regularly listen to the Code Newbie and .NET Rocks podcasts as well as the Jay and Silent Bob Got Old podcast. 
-
-Several of my friends are .NET programmers and are mentoring me in this learning process. I recently wrote my first WinForms program, a calculator that I plan to update to a scientific calculator. I had enough fun with the trig functions. 
+I co-host Complete Developer Podcast with my best friend/mentor. We cover all sorts of topics relating to development from the hard core technical to soft skills. We also lead a group here in Nashville called Developer Launchpad that is geared toward helping developers get started or advance in their careers.
